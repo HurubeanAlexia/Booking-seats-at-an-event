@@ -1,0 +1,12 @@
+﻿  entitate.cpp
+  repo.cpp
+C:\Users\Dodo\Desktop\laborator 9-10\laborator 9-10\repo.cpp(9,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  service.cpp
+C:\Users\Dodo\Desktop\laborator 9-10\laborator 9-10\service.cpp(38,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dodo\Desktop\laborator 9-10\laborator 9-10\service.cpp(40,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  tests.cpp
+  ui.cpp
+  Generating Code...
+C:\Users\Dodo\Desktop\laborator 9-10\laborator 9-10\service.cpp(54): warning C4715: 'Service::search_event_by_name': not all control paths return a value
+  laborator 9-10.vcxproj -> C:\Users\Dodo\Desktop\laborator 9-10\x64\Debug\laborator 9-10.exe
